@@ -16,3 +16,10 @@ A minimal Python desktop app to calculate total duration of videos in any folder
 
 ```bash
 pip install -r requirements.txt
+
+## ▶️ Run the App
+
+python video_duration_app.py
+
+
+## Made with ❤️ by Sina HPK
