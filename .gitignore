@@ -1,5 +1,6 @@
 __pycache__/
+*.pyc
+*.spec
 build/
 dist/
-*.spec
-*.pyc
+installer_output/
