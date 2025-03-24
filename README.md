@@ -22,5 +22,5 @@ pip install -r requirements.txt
 ```bash
 python video_duration_app.py
 
-
-## Made with ❤️ by Sina HPK
+```
+Made with ❤️ by Sina HPK
